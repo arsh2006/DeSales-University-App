@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>DeSales University Application</h1>
 
  ### [Video Demonstration](link)
 
