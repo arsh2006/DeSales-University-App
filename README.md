@@ -3,7 +3,7 @@
  ### [Video Demonstration](link)
 
 <h2>Description</h2>
-
+The DeSales App project was created to help students navigate and accsess information relevant to DeSales with a simple and easy to navigate UI. This in response to DeSales University having no dedicated app for students and them having to traverse through a varity of link to access the information they are looking for. Within the application, the user is able to see the live dinning menu and see what is available throughout the day along with their personal grades and sceedule.
 <br />
 
 
@@ -20,11 +20,11 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Launch the application: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Option "Dinning" selected:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
