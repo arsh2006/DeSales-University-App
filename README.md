@@ -21,19 +21,19 @@ The DeSales App project was created to help students navigate and access informa
 
 <p align="center">
 Launch the application: <br/>
-<img src="link" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JImzaRj" width="80%" alt="DeSales Application Home"/>
 <br />
 <br />
 Option "Dinning" selected:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="DeSales Application Home"/>
 <br />
 <br />
 Option "Grades" selected: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="DeSales Application Home"/>
 <br />
 <br />
 Option "Grades" selected: <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="DeSales Application Home"/>
 <br />
 <br />
 </p>
