@@ -1,0 +1,4 @@
+PO-109,,Government, Law, and Society,,Dooling Hall 206,,1:00PM - 1:50PM,,Mon/Wed/Fri
+MA-122,,Calculus II,,Dooling Hall 222,,2:00PM - 2:50PM,,Mon/Wed/Fri
+EN-104,,Comp. & Rhetoric,,Dooling Hall 106,,12:30PM - 1:45PM,,Tues/Thurs
+CS-211,,Object Oriented Programming,,Dooling Hall 223,,2:00PM - 3:15PM,,Tues/Thurs
