@@ -3,7 +3,18 @@
  ### [Video Demonstration](https://vimeo.com/1147171206?share=copy&fl=sv&fe=ci)
 
 <h2>Description</h2>
-The DeSales App project was created to help students access information relevant to DeSales with a simple and easy to navigate UI. This in response to DeSales University having no dedicated app for students and students having to traverse through a varity of links to access the information they are looking for. Within the application, the user is able to see the live dinning menu and see what is available throughout the day along with their personal grades and schedule. The grades and class schedules can only be parsed through .txt files due to security and privacy reasons; these fields must be manually entered by the user/student as we do not have the means to the API key. The dinning information is retrieved via a web scraper class which parses live meal options hosted on DeSales' Sodexo website
+The DeSales App project was created to help students access information relevant to DeSales University through a simple and easy-to-navigate user interface. This project addresses the absence of a dedicated DeSales University mobile or desktop application, which currently requires students to navigate multiple links and platforms to find essential information.
+<br /><br />
+
+Within the application, users can view:
+
+* The live dining menu, showing meal options available throughout the day
+
+* Their personal grades
+
+* Their class schedule
+
+Due to security and privacy limitations, grades and class schedules are parsed from .txt files. These files must be manually entered by the user, as access to the university’s official APIs and authentication keys is not available. Dining information is retrieved using a web scraper class that parses live meal data hosted on DeSales University’s Sodexo website.
 <br />
 
 
@@ -17,7 +28,7 @@ The DeSales App project was created to help students access information relevant
 - Eclipse
 - Visual Studio Code
 
-<h2>Breif program walk-through:</h2>
+<h2>Brief program walk-through:</h2>
 
 <p align="center">
 Launch the application: <br/>
@@ -32,7 +43,7 @@ Option "Grades" selected: <br/>
 <img src="https://imgur.com/so6edaA.png" height="80%" width="80%" alt="DeSales Application Home"/>
 <br />
 <br />
-Option "Grades" selected: <br/>
+Option "Classes" selected: <br/>
 <img src="https://imgur.com/mi3NHcV.png" height="80%" width="80%" alt="DeSales Application Home"/>
 <br />
 <br />
