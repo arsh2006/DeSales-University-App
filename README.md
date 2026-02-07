@@ -20,7 +20,7 @@ Due to security and privacy limitations, grades and class schedules are parsed f
 
 <h2>Languages and Utilities Used</h2>
 
-- Java (23.0.1]
+- Java (23.0.1)
 - JavaFX
 
 <h2>Environments Used </h2>
