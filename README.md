@@ -36,7 +36,7 @@ Launch the application: <br/>
 <br />
 <br />
 Option "Dinning" selected:  <br/>
-<img src="https://imgur.com/1zAiuAm.png" height="80%" width="80%" alt="DeSales App Dinning"/>
+<img src="https://imgur.com/1zAiuAm.png" height="80%" width="80%" alt="DeSales App Dinning](https://imgur.com/a/6LqJtqD"/>
 <br />
 <br />
 Option "Grades" selected: <br/>
